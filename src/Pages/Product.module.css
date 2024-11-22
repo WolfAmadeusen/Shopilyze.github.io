@@ -1,0 +1,42 @@
+.characteristics a {
+   font-size: 16px;
+   font-weight: 600;
+   color: rgb(60, 58, 57);
+   padding: 14px 15px;
+   background-color: rgb(227, 191, 159);
+   transition-duration: 500ms;
+   border-radius: 8px;
+}
+
+.characteristics a:hover {
+   color: #000;
+   background-color: rgb(253, 118, 0);
+}
+
+.characteristics a span {
+   color: rgb(122, 122, 122);
+}
+
+
+.ProductFullTitle{
+   color: #000;
+   font-weight: 600;
+   font-size: 20px;
+}
+
+.ProductAvailability{
+   font-weight: 400;
+   font-size: 20px;
+   color: rgb(253, 118, 0);
+}
+
+.productInfo{
+   font-weight: 600;
+   font-size: 20px;
+   color: rgb(121, 118, 116);
+}
+
+.ProductPrice{
+   font-size: 34px;
+   font-weight: 600;
+}

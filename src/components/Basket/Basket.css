@@ -1,0 +1,15 @@
+.basketEmpty{
+   display: flex;
+   justify-content: center;
+   align-content: center;
+   align-items: center;
+   flex-direction: column;
+   gap: 36px;
+   color: rgb(80, 78, 77);
+}
+
+.basketEmpty h1{
+   font-size: 34px;
+   font-weight: 600;
+}
+

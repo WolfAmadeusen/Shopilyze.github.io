@@ -1,0 +1,25 @@
+.search{
+   position: relative;
+}
+
+.search-btn{
+   position: absolute;
+   top: 9px;
+   right: 12px;
+}
+
+.search input {
+   width: 250px;
+   height: 50px;
+   padding: 14px 16px;
+   color: #A29E9B;
+   background-color: initial;
+   border: 2px solid #A29E9B;
+   border-radius: 16px;
+   font-size: 90%;
+   transition-duration: 500ms;
+}
+
+.search input:focus{
+   background-color: rgb(227, 203, 182);
+}
